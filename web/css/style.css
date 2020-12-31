@@ -1,0 +1,5 @@
+#result-area{
+    /* bootstrapのtextareaはreadonlyにすると
+    背景がグレーになるので */
+    background-color: white;
+}
